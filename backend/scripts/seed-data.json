@@ -1,0 +1,76 @@
+{
+  "teams": [
+    {
+      "name": "Dynamos",
+      "shortName": "DYN",
+      "logoUrl": "https://example.com/dynamos.png"
+    },
+    {
+      "name": "Highlanders",
+      "shortName": "HIG",
+      "logoUrl": "https://example.com/highlanders.png"
+    },
+    {
+      "name": "CAPS United",
+      "shortName": "CAP",
+      "logoUrl": "https://example.com/caps.png"
+    },
+    {
+      "name": "FC Platinum",
+      "shortName": "FCP",
+      "logoUrl": "https://example.com/fcplat.png"
+    },
+    {
+      "name": "Simba Bhora",
+      "shortName": "SIM",
+      "logoUrl": "https://example.com/simba.png"
+    },
+    {
+      "name": "Yadah",
+      "shortName": "YAD",
+      "logoUrl": "https://example.com/yadah.png"
+    }
+  ],
+  "players": [
+    { "name": "Ariel Sibanda", "position": "GK", "team": "Highlanders", "price": 5.5 },
+    { "name": "Wallace Magalane", "position": "GK", "team": "FC Platinum", "price": 5.0 },
+    { "name": "Donovan Bernard", "position": "GK", "team": "Chicken Inn", "price": 4.5 },
+    
+    { "name": "Frank Makarati", "position": "DEF", "team": "Dynamos", "price": 6.5 },
+    { "name": "Peter Muduhwa", "position": "DEF", "team": "Highlanders", "price": 6.0 },
+    { "name": "Godknows Murwira", "position": "DEF", "team": "CAPS United", "price": 5.5 },
+    { "name": "Kevin Moyo", "position": "DEF", "team": "Dynamos", "price": 5.0 },
+    { "name": "Lawrence Masibera", "position": "DEF", "team": "FC Platinum", "price": 5.5 },
+
+    { "name": "Walter Musona", "position": "MID", "team": "Simba Bhora", "price": 9.0 },
+    { "name": "Donald Mudadi", "position": "MID", "team": "Dynamos", "price": 7.0 },
+    { "name": "Tanaka Shandirwa", "position": "MID", "team": "Dynamos", "price": 6.5 },
+    { "name": "Juan Mutudza", "position": "MID", "team": "FC Platinum", "price": 7.5 },
+    { "name": "Phineas Bamusi", "position": "MID", "team": "CAPS United", "price": 6.0 },
+
+    { "name": "Khama Billiat", "position": "FWD", "team": "Yadah", "price": 12.0 },
+    { "name": "William Manondo", "position": "FWD", "team": "CAPS United", "price": 10.5 },
+    { "name": "Lynoth Chikuhwa", "position": "FWD", "team": "Highlanders", "price": 8.0 },
+    { "name": "Obriel Chirinda", "position": "FWD", "team": "Ngezi Platinum", "price": 8.5 }
+  ],
+  "fixtures": [
+    {
+      "gameweek": 1,
+      "homeTeam": "Dynamos",
+      "awayTeam": "Highlanders",
+      "played": false
+    },
+    {
+      "gameweek": 1,
+      "homeTeam": "CAPS United",
+      "awayTeam": "Manica Diamonds",
+      "played": false
+    },
+    {
+      "gameweek": 1,
+      "homeTeam": "FC Platinum",
+      "awayTeam": "Chegutu Pirates",
+      "played": false
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+[
+  {
+    "name": "Khama Billiat",
+    "position": "FWD",
+    "team": "Yadah",
+    "price": 12.0
+  },
+  {
+    "name": "Frank Makarati",
+    "position": "DEF",
+    "team": "Dynamos",
+    "price": 6.5
+  },
+  {
+    "name": "Ariel Sibanda",
+    "position": "GK",
+    "team": "Highlanders",
+    "price": 5.5
+  },
+  {
+    "name": "Walter Musona",
+    "position": "MID",
+    "team": "Simba Bhora",
+    "price": 9.0
+  },
+  {
+    "name": "Peter Muduhwa",
+    "position": "DEF",
+    "team": "Highlanders",
+    "price": 6.0
+  },
+  {
+    "name": "Donald Mudadi",
+    "position": "MID",
+    "team": "Dynamos",
+    "price": 7.0
+  },
+  {
+    "name": "William Manondo",
+    "position": "FWD",
+    "team": "CAPS United",
+    "price": 10.5
+  },
+  {
+    "name": "Wallace Magalane",
+    "position": "GK",
+    "team": "FC Platinum",
+    "price": 5.0
+  }
+]
